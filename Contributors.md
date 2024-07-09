@@ -27,6 +27,7 @@
 - [Naveen Kumar](https:github.com/Naveen-369) **First Open Source Contribution Made ! ! !**
 - [Ahmed Said](https://github.com/AhmedSaid3617) **My first open-source contribution**
 - [Donald](https://github.com/Nodebaron) **First Open Source Contribution**
+- [Akshat](https://github.com/Aksh1304) **First Open Source Contribution**
 - [Dasu Rahul](https://github.com/dasurahul) **First Open Source Contribution**
 - [Hemraj Bhatt](https://github.com/HemrajB87/) **First Open Source Contribution**
 - [Affan Khan](https://github.com/affank1020) **First open source contribution**
